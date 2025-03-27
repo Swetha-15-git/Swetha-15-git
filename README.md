@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swetha-15-git
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning Ai  Data Analyst 
-- 💞️ I’m looking to collaborate on working for Data analyst 
+- I’m looking to collaborate on working for Data analyst 
   
 
 <!---
